@@ -1,0 +1,106 @@
+/* GLOBAL WEBSITE STYLING */
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.primary-btn {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.secondary-btn {
+  background-color: transparent;
+  border: 2px solid #007bff;
+  color: #007bff;
+}
+
+section {
+  padding: 50px 80px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+/* ===================== NAVBAR ===================== */
+
+.navbar {
+  width: 100%;
+  padding: 20px 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo img {
+  height: 80px;
+  object-fit: contain;
+}
+
+.logo span {
+  font-size: 28px;
+  font-weight: 700;
+  color: #222;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+
+nav ul li a {
+  font-size: 17px;
+  color: #444;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.2s;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+  color: #007bff;
+}
+
+.btn-login {
+  padding: 10px 22px;
+  background: #007bff;
+  color: #fff;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.btn-login:hover {
+  background: #0056b3;
+}

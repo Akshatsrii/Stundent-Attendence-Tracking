@@ -1,0 +1,128 @@
+/* ===================== ATTENDANCE PAGE ===================== */
+
+.attendance-page {
+  padding: 40px 80px;
+  width: 100%;
+  background: linear-gradient(135deg, #fffbf0 0%, #fff9e6 100%);
+  min-height: 100vh;
+}
+
+/* Header Section */
+.attendance-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.attendance-header h1 {
+  font-size: 38px;
+  font-weight: 700;
+  color: #d4a017;
+  text-shadow: 2px 2px 4px rgba(212, 160, 23, 0.1);
+}
+
+.attendance-header p {
+  font-size: 17px;
+  color: #8b7355;
+}
+
+/* Table Section */
+.attendance-table-section {
+  margin-top: 20px;
+}
+
+/* Attendance Table Styling */
+.attendance-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(212, 160, 23, 0.15);
+  border: 2px solid #ffd700;
+}
+
+.attendance-table thead {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+  color: #333;
+}
+
+.attendance-table th {
+  padding: 18px 16px;
+  font-size: 16px;
+  text-align: left;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #5a4a2a;
+}
+
+.attendance-table td {
+  padding: 16px;
+  font-size: 15px;
+  color: #333;
+  border-bottom: 1px solid #fff4d9;
+}
+
+/* Alternating Row Colors */
+.attendance-table tbody tr:nth-child(odd) {
+  background: #ffffff;
+}
+
+.attendance-table tbody tr:nth-child(even) {
+  background: #fffef5;
+}
+
+/* Hover Row Effect */
+.attendance-table tbody tr:hover {
+  background: #fff9e6;
+  transform: scale(1.01);
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(212, 160, 23, 0.1);
+}
+
+/* Last Row No Border */
+.attendance-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Percentage Highlight Colors */
+.attendance-table td:nth-child(4) {
+  font-weight: 700;
+  color: #d4a017;
+  font-size: 16px;
+}
+
+/* Status Badge Styling (if you have status columns) */
+.status-present {
+  color: #d4a017;
+  font-weight: 600;
+}
+
+.status-absent {
+  color: #c9302c;
+  font-weight: 600;
+}
+
+/* Add subtle gradient to table rows */
+.attendance-table tbody tr {
+  transition: all 0.3s ease;
+}
+
+/* Scrollbar Styling */
+.attendance-table-section::-webkit-scrollbar {
+  height: 8px;
+}
+
+.attendance-table-section::-webkit-scrollbar-track {
+  background: #fff9e6;
+  border-radius: 10px;
+}
+
+.attendance-table-section::-webkit-scrollbar-thumb {
+  background: #ffd700;
+  border-radius: 10px;
+}
+
+.attendance-table-section::-webkit-scrollbar-thumb:hover {
+  background: #d4a017;
+}

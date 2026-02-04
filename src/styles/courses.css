@@ -1,0 +1,142 @@
+/* ===================== COURSES PAGE ===================== */
+
+.courses-page {
+  padding: 40px 80px;
+  width: 100%;
+}
+
+/* ===== Header Section ===== */
+.courses-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.courses-header h1 {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.courses-header p {
+  font-size: 18px;
+  color: #555;
+  max-width: 700px;
+  margin: auto;
+}
+
+/* ===== Category Section ===== */
+.course-category-section {
+  margin-top: 50px;
+}
+
+.course-category-section h2 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+}
+
+.category-card {
+  background: #f7f9fc;
+  padding: 22px;
+  border-radius: 14px;
+  text-align: center;
+  transition: 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.category-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.category-card img {
+  width: 100%;
+  height: 180px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.category-card h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 14px 0;
+}
+
+.category-card p {
+  color: #555;
+  font-size: 15px;
+  margin-bottom: 18px;
+}
+
+/* ===== Course List Section ===== */
+.course-list-section {
+  margin-top: 60px;
+}
+
+.course-list-section h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.course-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.course-card {
+  background: #eef3ff;
+  padding: 20px;
+  border-radius: 12px;
+  transition: 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.course-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+}
+
+.course-card h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.course-card p {
+  color: #444;
+  margin-bottom: 14px;
+}
+
+/* ===== CTA Section ===== */
+.courses-cta-section {
+  margin-top: 80px;
+  text-align: center;
+  padding: 60px;
+  background: #f0f5ff;
+  border-radius: 12px;
+}
+
+.courses-cta-section h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.courses-cta-section p {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Button at bottom */
+.courses-cta-section .btn {
+  padding: 14px 30px;
+  font-size: 18px;
+  border-radius: 8px;
+}

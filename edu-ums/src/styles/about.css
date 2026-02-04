@@ -1,0 +1,181 @@
+/* ===================== ABOUT PAGE ===================== */
+
+.about-page {
+  width: 100%;
+  display: block;
+  overflow-x: hidden;
+}
+
+/* ===== Banner Section ===== */
+.about-banner {
+  text-align: center;
+  padding: 70px 40px;
+  background: linear-gradient(to right, #007bff, #0056b3);
+  color: #fff;
+}
+
+.about-banner h1 {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.about-banner p {
+  font-size: 18px;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* ===== About Intro Section ===== */
+.about-intro {
+  padding: 60px 80px;
+}
+
+.about-container {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about-left {
+  flex: 1;
+}
+
+.about-image {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.about-right {
+  flex: 1.2;
+}
+
+.about-right h2 {
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+.about-right p {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 12px;
+}
+
+.about-right .btn {
+  margin-top: 15px;
+}
+
+/* ===== Vision & Mission ===== */
+.vision-mission {
+  padding: 60px 80px;
+  background: #f8f9ff;
+  text-align: center;
+}
+
+.vision-mission h2 {
+  font-size: 32px;
+  margin-bottom: 25px;
+}
+
+.vm-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.vm-card {
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  width: 320px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+.vm-card h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* ===== Stats Section ===== */
+.about-stats {
+  padding: 60px 80px;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}
+
+.stat-box {
+  background: #f5f8ff;
+  padding: 30px;
+  text-align: center;
+  border-radius: 12px;
+}
+
+.stat-box h2 {
+  font-size: 36px;
+  color: #007bff;
+}
+
+.stat-box p {
+  font-size: 16px;
+  color: #666;
+}
+
+/* ===== Campus Life ===== */
+.campus-life {
+  padding: 60px 80px;
+  text-align: center;
+}
+
+.campus-life h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.campus-life p {
+  max-width: 800px;
+  margin: auto;
+  color: #555;
+}
+
+.campus-gallery {
+  margin-top: 40px;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.campus-gallery img {
+  width: 320px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+/* ===== CTA Section ===== */
+.cta-section {
+  padding: 60px 80px;
+  background: #eef4ff;
+  text-align: center;
+  border-radius: 10px;
+  margin: 40px auto;
+}
+
+.cta-content h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.cta-actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}

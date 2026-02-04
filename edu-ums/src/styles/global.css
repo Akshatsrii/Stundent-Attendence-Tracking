@@ -1,0 +1,71 @@
+/* UNIVERSAL PAGE SPACING */
+section {
+  padding: 60px 80px;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+p {
+  color: #555;
+}
+
+/* GRID LAYOUT COMMON */
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
+
+.card {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* BUTTONS */
+.btn {
+  display: inline-block;
+  padding: 12px 22px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.primary-btn {
+  background: #007bff;
+  color: white;
+}
+
+.outline-btn {
+  border: 2px solid #007bff;
+  color: #007bff;
+}
+
+/* FORM FIELDS */
+input, textarea, select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+/* TABLES */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 12px;
+  border: 1px solid #ccc;
+}

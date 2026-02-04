@@ -1,0 +1,75 @@
+/* ===================== ATTENDANCE PAGE ===================== */
+
+.attendance-page {
+  padding: 40px 80px;
+  width: 100%;
+}
+
+/* Header Section */
+.attendance-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.attendance-header h1 {
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.attendance-header p {
+  font-size: 17px;
+  color: #555;
+}
+
+/* Table Section */
+.attendance-table-section {
+  margin-top: 20px;
+}
+
+/* Attendance Table Styling */
+.attendance-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.attendance-table thead {
+  background: #007bff;
+  color: #fff;
+}
+
+.attendance-table th {
+  padding: 16px;
+  font-size: 16px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.attendance-table td {
+  padding: 14px 16px;
+  font-size: 15px;
+  color: #333;
+  border-bottom: 1px solid #eee;
+}
+
+/* Hover Row Effect */
+.attendance-table tbody tr:hover {
+  background: #f5f8ff;
+}
+
+/* Last Row No Border */
+.attendance-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Percentage Highlight Colors */
+.attendance-table td:nth-child(4) {
+  font-weight: 600;
+}
+
+.attendance-table td:nth-child(4):contains("%") {
+  color: #007bff;
+}

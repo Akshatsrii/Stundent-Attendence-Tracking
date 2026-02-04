@@ -1,0 +1,119 @@
+/* ===================== LIBRARY PAGE ===================== */
+
+.library-page {
+  padding: 40px 80px;
+  width: 100%;
+}
+
+/* ===== Header Section ===== */
+.library-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.library-header h1 {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.library-header p {
+  font-size: 18px;
+  color: #555;
+  max-width: 720px;
+  margin: auto;
+}
+
+/* ===== Search Bar ===== */
+.library-search-section {
+  margin: 40px 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.library-search-input {
+  width: 450px;
+  padding: 14px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* ===== Books Grid Section ===== */
+.books-section {
+  margin-top: 40px;
+}
+
+.books-section h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
+
+.book-card {
+  background: #f7f9fc;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  transition: 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.book-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.book-card img {
+  width: 100%;
+  height: 220px;
+  border-radius: 10px;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.book-card h3 {
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.book-card p {
+  color: #555;
+  margin: 4px 0 8px 0;
+}
+
+.book-card span {
+  font-weight: 700;
+  color: green;
+  font-size: 15px;
+}
+
+.book-card span:contains("Unavailable") {
+  color: red !important;
+}
+
+/* ===== Library Rules Section ===== */
+.library-rules-section {
+  margin-top: 60px;
+}
+
+.library-rules-section h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.library-rules {
+  padding-left: 20px;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #444;
+}
+
+.library-rules li {
+  margin-bottom: 8px;
+}

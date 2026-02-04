@@ -1,0 +1,73 @@
+/* ===================== ALUMNI PAGE ===================== */
+
+.alumni-page {
+  width: 100%;
+  padding: 40px 80px;
+}
+
+/* Header Section */
+.alumni-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.alumni-header h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.alumni-header p {
+  font-size: 18px;
+  color: #555;
+  max-width: 700px;
+  margin: auto;
+}
+
+/* Alumni Grid Section */
+.alumni-grid-section {
+  margin-top: 40px;
+}
+
+.alumni-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  justify-items: center;
+}
+
+/* Alumni Card Style */
+.alumni-card {
+  background: #f8f9fc;
+  padding: 30px 20px;
+  border-radius: 12px;
+  width: 280px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: 0.3s ease;
+}
+
+.alumni-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+/* Alumni Card Image */
+.alumni-card img {
+  height: 70px;
+  margin-bottom: 12px;
+  object-fit: contain;
+}
+
+/* Alumni Name */
+.alumni-card h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+/* Alumni Role / Company */
+.alumni-card p {
+  color: #666;
+  font-size: 16px;
+}

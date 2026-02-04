@@ -1,0 +1,63 @@
+/* ===================== ADMIN PANEL (GG PAGE) ===================== */
+
+.gg-page {
+  width: 100%;
+  padding: 40px 80px;
+}
+
+/* ===== Header ===== */
+.gg-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.gg-header h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.gg-header p {
+  font-size: 17px;
+  color: #555;
+  max-width: 650px;
+  margin: auto;
+}
+
+/* ===== Notice Form Section ===== */
+.gg-form-section {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.gg-form {
+  width: 100%;
+  max-width: 550px;
+  background: #f7f9fc;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.gg-form input,
+.gg-form textarea {
+  padding: 14px;
+  font-size: 16px;
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+
+.gg-form textarea {
+  resize: none;
+}
+
+/* Button */
+.gg-form button {
+  padding: 14px;
+  font-size: 17px;
+  border-radius: 8px;
+}

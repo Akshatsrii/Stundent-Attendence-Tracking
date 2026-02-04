@@ -1,0 +1,140 @@
+/* ===================== FACULTY PAGE ===================== */
+
+.faculty-page {
+  padding: 40px 80px;
+  width: 100%;
+}
+
+/* ===== Header Section ===== */
+.faculty-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.faculty-header h1 {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.faculty-header p {
+  font-size: 18px;
+  color: #555;
+  max-width: 750px;
+  margin: auto;
+}
+
+/* ===== Faculty Grid ===== */
+.faculty-grid-section {
+  margin-top: 40px;
+}
+
+.faculty-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 35px;
+}
+
+.faculty-card {
+  background: #f7f9fc;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  transition: 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.faculty-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.faculty-card img {
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.faculty-card h3 {
+  font-size: 22px;
+  margin-top: 5px;
+}
+
+.faculty-card p {
+  color: #555;
+  margin: 5px 0;
+}
+
+.faculty-card span {
+  font-size: 15px;
+  color: #007bff;
+  font-weight: 600;
+}
+
+/* ===== Departments Section ===== */
+.dept-section {
+  margin-top: 60px;
+}
+
+.dept-section h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.dept-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}
+
+.dept-card {
+  background: #eef3ff;
+  padding: 20px;
+  border-radius: 10px;
+  transition: 0.3s ease;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+}
+
+.dept-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+}
+
+.dept-card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.dept-card p {
+  color: #444;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+/* ===== CTA Section ===== */
+.faculty-cta-section {
+  margin-top: 70px;
+  text-align: center;
+  padding: 50px;
+  background: #f0f5ff;
+  border-radius: 12px;
+}
+
+.faculty-cta-section h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.faculty-cta-section p {
+  color: #555;
+  max-width: 650px;
+  margin: auto auto 20px auto;
+}
+
+.faculty-cta-section .btn {
+  font-size: 18px;
+  padding: 12px 26px;
+  border-radius: 8px;
+}

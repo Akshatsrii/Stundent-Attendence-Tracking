@@ -1,0 +1,75 @@
+.student-login-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #eef2ff, #f8fafc);
+}
+
+.login-card {
+  width: 360px;
+  background: white;
+  padding: 30px;
+  border-radius: 14px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.login-card h2 {
+  margin-bottom: 20px;
+  color: #1e293b;
+}
+
+.login-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  border: 1px solid #cbd5e1;
+  font-size: 14px;
+}
+
+.wallet-btn {
+  width: 100%;
+  padding: 10px;
+  background: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.login-btn {
+  width: 100%;
+  padding: 10px;
+  background: #16a34a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+.register-btn {
+  width: 100%;
+  padding: 10px;
+  background: #f59e0b;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.wallet-address {
+  font-size: 12px;
+  margin-top: 8px;
+  color: #475569;
+}
+
+.error-text {
+  margin-top: 10px;
+  color: red;
+  font-size: 13px;
+}
