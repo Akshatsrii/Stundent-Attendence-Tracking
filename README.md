@@ -1175,19 +1175,19 @@ cd frontend && npm start
   <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/roadmap-timeline.png" alt="Roadmap Timeline" width="900"/>
 </div>
 
-#### Q2 2024 🌱
+#### Q2 2026 🌱
 - [ ] AI-powered attendance prediction
 - [ ] Face recognition integration
 - [ ] Advanced analytics dashboard
 - [ ] Mobile native apps (iOS/Android)
 
-#### Q3 2024 🚀
+#### Q3 2026 🚀
 - [ ] Multi-language support
 - [ ] Integration with popular LMS platforms
 - [ ] Advanced reporting with AI insights
 - [ ] Parent portal access
 
-#### Q4 2024 ⭐
+#### Q4 2026 ⭐
 - [ ] Biometric authentication options
 - [ ] IoT device integration
 - [ ] Custom blockchain network option
