@@ -216,10 +216,6 @@ Answer: NO CLEAR AUDIT TRAIL
 
 **EDUFLOW** is not just another attendance system – it's a **paradigm shift** in how educational institutions approach attendance management, data integrity, and academic trust.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/vision-mission.png" alt="Vision Mission" width="700"/>
-</div>
-
 #### 🎯 Our Vision
 > "To create a world where every educational institution operates with complete transparency, unbreakable trust, and zero tolerance for academic dishonesty."
 
@@ -231,10 +227,6 @@ Answer: NO CLEAR AUDIT TRAIL
 </p>
 
 ### 🏆 What Makes EDUFLOW Different?
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/comparison.png" alt="Comparison Chart" width="800"/>
-</div>
 
 <table>
 <tr>
@@ -273,10 +265,6 @@ Answer: NO CLEAR AUDIT TRAIL
 
 ### 🎓 Core Principles
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/core-principles.png" alt="Core Principles" width="800"/>
-</div>
-
 #### 1️⃣ **Security First**
 Every interaction is secured with multiple layers:
 ```
@@ -308,10 +296,6 @@ Simple Interface + Powerful Backend = Happy Users
 ### 📈 Impact Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/impact-metrics.png" alt="Impact Metrics" width="900"/>
-</div>
-
-<div align="center">
 
 | Metric | Traditional System | EDUFLOW | Improvement |
 |--------|-------------------|---------|-------------|
@@ -330,10 +314,6 @@ Simple Interface + Powerful Backend = Happy Users
 
 ### 🌍 Scalability & Adaptability
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/scalability.png" alt="Scalability" width="700"/>
-</div>
-
 EDUFLOW is designed to scale from:
 - 🏫 Small colleges (500 students)
 - 🎓 Medium universities (5,000 students)  
@@ -345,21 +325,8 @@ EDUFLOW is designed to scale from:
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line">
 </p>
 
-## ✨ Key Features
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/features-banner.png" alt="Features Banner" width="900"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire line">
-</p>
 
 ### 🔐 Advanced Security Features
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/security-features.png" alt="Security Features" width="800"/>
-</div>
 
 #### **1. Proxy-Free System Architecture**
 
@@ -408,9 +375,6 @@ Result: Unique Device ID
 
 #### **2. Multi-Factor OTP Authentication**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/otp-flow.png" alt="OTP Flow" width="700"/>
-</div>
 
 ```
 ┌─────────────────────────────────────────┐
@@ -443,9 +407,6 @@ Result: Unique Device ID
 
 #### **3. JWT Token Security**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/jwt-security.png" alt="JWT Security" width="700"/>
-</div>
 
 ```javascript
 Token Structure:
@@ -478,10 +439,6 @@ Token Structure:
 
 ### ⛓️ Blockchain Integration Features
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/blockchain-integration.png" alt="Blockchain Integration" width="800"/>
-</div>
-
 #### **1. Immutable Attendance Records**
 
 **How Records are Stored:**
@@ -504,9 +461,6 @@ Transaction Hash Returned
 Linked to MongoDB Record
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/blockchain-flow.png" alt="Blockchain Flow" width="700"/>
-</div>
 
 **Data Structure:**
 ```solidity
@@ -525,10 +479,6 @@ struct AttendanceRecord {
 </p>
 
 ### 👨‍🏫 Faculty Management Features
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/faculty-dashboard.png" alt="Faculty Dashboard" width="900"/>
-</div>
 
 #### **1. Session Control Dashboard**
 
@@ -578,10 +528,6 @@ Recent Activity:
 
 ### 👨‍🎓 Student Portal Features
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/student-portal.png" alt="Student Portal" width="900"/>
-</div>
-
 #### **1. Quick Attendance Marking**
 
 **Student Interface:**
@@ -607,21 +553,8 @@ Recent Activity:
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua line">
 </p>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/tech-stack-banner.png" alt="Tech Stack Banner" width="900"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line">
-</p>
 
 ### 🎨 Frontend Technologies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/frontend-tech.png" alt="Frontend Technologies" width="700"/>
-</div>
 
 #### **React.js - The UI Framework**
 
@@ -692,10 +625,6 @@ Key Components:
 </p>
 
 ### 🔧 Backend Technologies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/backend-tech.png" alt="Backend Technologies" width="700"/>
-</div>
 
 #### **Node.js + Express.js - Server Framework**
 
@@ -771,10 +700,6 @@ Backend Structure:
 
 ### ⛓️ Blockchain Technologies
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/blockchain-tech.png" alt="Blockchain Technologies" width="800"/>
-</div>
-
 #### **Ethereum / Polygon Network**
 
 <table>
@@ -847,8 +772,6 @@ contract AttendanceRegistry {
 
 ### 📊 Technology Comparison
 
-<img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/tech-comparison.png" alt="Tech Comparison" width="800"/>
-
 | Aspect | Our Choice | Alternative | Why We Chose |
 |--------|-----------|-------------|--------------|
 | **Frontend** | React | Vue/Angular | Better ecosystem, hiring pool |
@@ -865,20 +788,10 @@ contract AttendanceRegistry {
 </p>
 
 ## 🏗️ System Architecture
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/architecture-banner.png" alt="Architecture Banner" width="900"/>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="solar line">
 </p>
 
-### 🎯 High-Level Architecture
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/high-level-architecture.png" alt="High Level Architecture" width="900"/>
-</div>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -915,22 +828,7 @@ contract AttendanceRegistry {
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" alt="vintage line">
 </p>
 
-### 🔄 Request Flow Architecture
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/request-flow.png" alt="Request Flow" width="900"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua line">
-</p>
-
 ### 🛡️ Security Architecture
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/security-architecture.png" alt="Security Architecture" width="800"/>
-</div>
-
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │              MULTI-LAYER SECURITY MODEL                      │
@@ -1002,7 +900,6 @@ LAYER 6: BLOCKCHAIN SECURITY
 ### ⛓️ Blockchain Verification
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/screenshots/blockchain-verify.png" alt="Blockchain Verification" width="900"/>
   <p><i>Cryptographic proof of attendance on the blockchain</i></p>
 </div>
 
@@ -1010,50 +907,7 @@ LAYER 6: BLOCKCHAIN SECURITY
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua line">
 </p>
 
-### 📱 Mobile Responsive Design
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/screenshots/mobile-1.png" alt="Mobile View 1" width="250"/>
-        <br />
-        <b>Student Mobile</b>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/screenshots/mobile-2.png" alt="Mobile View 2" width="250"/>
-        <br />
-        <b>Mark Attendance</b>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/screenshots/mobile-3.png" alt="Mobile View 3" width="250"/>
-        <br />
-        <b>Attendance History</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line">
-</p>
-
-## 🚀 Installation Guide
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/installation-banner.png" alt="Installation Banner" width="900"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire line">
-</p>
-
 ### 📋 Prerequisites
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/prerequisites.png" alt="Prerequisites" width="700"/>
-</div>
-
 Before installing EDUFLOW, ensure you have:
 
 ```bash
@@ -1099,10 +953,6 @@ cp .env.example .env
 npm run seed  # Create initial admin user
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/backend-setup.png" alt="Backend Setup" width="700"/>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" alt="grass line">
 </p>
@@ -1115,11 +965,6 @@ npm install
 cp .env.example .env
 # Edit .env with API URL
 ```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/frontend-setup.png" alt="Frontend Setup" width="700"/>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="solar line">
 </p>
@@ -1133,10 +978,6 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network mumbai
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/blockchain-deploy.png" alt="Blockchain Deploy" width="700"/>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" alt="vintage line">
 </p>
@@ -1149,11 +990,7 @@ cd backend && npm run dev
 
 # Terminal 2 - Frontend
 cd frontend && npm start
-```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/running-app.png" alt="Running App" width="700"/>
-</div>
+```>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua line">
@@ -1197,15 +1034,6 @@ cd frontend && npm start
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire line">
 </p>
 
-## 👨‍💻 Team
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/team-banner.png" alt="Team Banner" width="900"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored line">
-</p>
 
 ### 🌟 Team Pro-Programmers
 
@@ -1249,9 +1077,6 @@ cd frontend && npm start
 
 ## 🤝 Contributing
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/contributing.png" alt="Contributing" width="700"/>
-</div>
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
@@ -1271,18 +1096,6 @@ git push origin feature/AmazingFeature
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" alt="grass line">
-</p>
-
-## 📄 License
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/eduflow/main/assets/license.png" alt="License" width="500"/>
-</div>
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="solar line">
 </p>
 
 ## 🌟 Acknowledgments
@@ -1311,10 +1124,8 @@ Special thanks to:
 
 **Need help? Have questions?**
 
-📧 Email: support@eduflow.com  
-💬 Discord: [Join our community](https://discord.gg/eduflow)  
-🐦 Twitter: [@EduflowOfficial](https://twitter.com/eduflowofficial)  
-📚 Documentation: [docs.eduflow.com](https://docs.eduflow.com)
+📧 Email: akshatrai433@gmmil.com 
+Contact: 90240855205
 
 </div>
 
@@ -1344,20 +1155,6 @@ Thank you for exploring **EDUFLOW** - the future of secure, transparent, and blo
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire line">
-</p>
-
-### 📊 Project Stats
-
-![GitHub Stars](https://img.shields.io/github/stars/pro-programmers/eduflow?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/pro-programmers/eduflow?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/pro-programmers/eduflow)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/pro-programmers/eduflow)
-![GitHub License](https://img.shields.io/github/license/pro-programmers/eduflow)
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored line">
 </p>
 
 <div align="center">
