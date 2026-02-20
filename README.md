@@ -1162,4 +1162,7 @@ Thank you for exploring **EDUFLOW** - the future of secure, transparent, and blo
 **[⬆ Back to Top](#-eduflow)**
 
 </div>
->>>>>>> 99e05d21f785bf0f697a634e932e2c8ebfc2cbe8
+
+
+**Demo Video**
+[Watch Video](https://github.com/Akshatsrii/Stundent-Attendence-Tracking/blob/main/WhatsApp%20Video%202026-02-20%20at%2014.06.35.mp4)
